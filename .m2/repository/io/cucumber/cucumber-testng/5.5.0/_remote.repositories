@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 28 11:33:49 IST 2022
+cucumber-testng-5.5.0-sources.jar>central=
+cucumber-testng-5.5.0.jar>central=
+cucumber-testng-5.5.0.pom>central=
